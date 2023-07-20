@@ -40,6 +40,8 @@ Countplot Distribusi Kelas Prediksi
 
 Tabel Hasil Matrik Evaluasi Agregat Untuk Confusion Matrix
 ![image](https://github.com/wisnu45/KLASIFIKASI-DIABETIC-RETINOPATHY/assets/45603735/48f7ab71-6adc-4eb6-b77c-8152c3f3c28e)
+
+
 Metrik evaluasi agregat dari confusion matrix menunjukkan bahwa model memiliki akurasi sekitar 95.1%, yang menggambarkan kemampuan model dalam mengklasifikasikan data secara benar secara keseluruhan. Namun, presisi rata-rata sekitar 57.7% menunjukkan bahwa model memiliki tingkat keakuratan yang lebih rendah dalam memberikan prediksi yang tepat untuk setiap kelas. Meskipun demikian, recall rata-rata mencapai sekitar 80.0%, menunjukkan bahwa model dapat mengidentifikasi dan menangkap sampel positif dengan baik. F1-score rata-rata sekitar 63.6% memberikan gambaran keseluruhan tentang kinerja model, yang mencerminkan keseimbangan antara presisi dan recall. Meskipun akurasi cukup tinggi, peningkatan presisi dan F1-score untuk beberapa kelas mungkin diperlukan. Evaluasi lebih lanjut dan penyesuaian model mungkin diperlukan untuk meningkatkan kinerja dalam mengklasifikasikan kelas-kelas yang memiliki presisi dan F1-score yang lebih rendah. 
 
 Gambar Hasil Klasifikasi DR kelas 0-4 dengan Model ResNet50 244x224x3
