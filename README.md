@@ -32,6 +32,7 @@ AKURASI EFOCH
 ![image](https://github.com/wisnu45/KLASIFIKASI-DIABETIC-RETINOPATHY/assets/45603735/f454578e-d713-4c62-8aba-0a7d19cb5c2f)
 
 CONFUSION MATRIX
+
 ![image](https://github.com/wisnu45/KLASIFIKASI-DIABETIC-RETINOPATHY/assets/45603735/438fee0e-ed28-4437-bba5-e4e63136e392)
 
 Countplot Distribusi Kelas Prediksi
